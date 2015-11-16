@@ -1,6 +1,6 @@
 # Babelハンズオン復習会
 
-[tower-of-babel](https://github.com/yosuke-furukawa/tower-of-babel)の一部を仕様する。
+[tower-of-babel](https://github.com/yosuke-furukawa/tower-of-babel)の一部を使用する。
 
 ~~~
 $ npm install tower-of-babel -g
